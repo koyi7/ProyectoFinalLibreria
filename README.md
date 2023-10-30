@@ -30,7 +30,7 @@ Los usuario que entren a la web podrán
 
 # Dejo por acá el link del github
 
-https://github.com/koyi7/Libreria.git
+https://github.com/koyi7/ProyectoFinalLibreria.git
 
 #Dejo por acá el link del vídeo explicando mi página web
 
